@@ -2,9 +2,9 @@
 package main
 
 import (
-	"github.com/requilence/integram"
-	"github.com/integram-org/trello"
-	"github.com/integram-org/gitlab"
+	"github.com/legionnet/integram"
+	"github.com/legionnet/trello"
+	"github.com/legionnet/gitlab"
 	"github.com/kelseyhightower/envconfig"
 )
 
