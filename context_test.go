@@ -22,7 +22,6 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"crypto/md5"
 )
 
 func TestContext_SetServiceBaseURL(t *testing.T) {
